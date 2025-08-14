@@ -1,0 +1,15 @@
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.exe
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.deps.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.pdb
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.sourcelink.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\obj\Debug\net9.0\refint\HealthCareSystem.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.pdb
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.genruntimeconfig.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\HealthCareSystem\obj\Debug\net9.0\ref\HealthCareSystem.dll
