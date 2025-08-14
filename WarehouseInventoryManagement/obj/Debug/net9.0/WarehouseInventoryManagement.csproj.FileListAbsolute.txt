@@ -1,0 +1,15 @@
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\bin\Debug\net9.0\WarehouseInventoryManagement.exe
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\bin\Debug\net9.0\WarehouseInventoryManagement.deps.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\bin\Debug\net9.0\WarehouseInventoryManagement.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\bin\Debug\net9.0\WarehouseInventoryManagement.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\bin\Debug\net9.0\WarehouseInventoryManagement.pdb
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\obj\Debug\net9.0\WarehouseInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\obj\Debug\net9.0\WarehouseInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\obj\Debug\net9.0\WarehouseInventoryManagement.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\obj\Debug\net9.0\WarehouseInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\obj\Debug\net9.0\WarehouseInventoryManagement.sourcelink.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\obj\Debug\net9.0\WarehouseInventoryManagement.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\obj\Debug\net9.0\refint\WarehouseInventoryManagement.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\obj\Debug\net9.0\WarehouseInventoryManagement.pdb
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\obj\Debug\net9.0\WarehouseInventoryManagement.genruntimeconfig.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\WarehouseInventoryManagement\obj\Debug\net9.0\ref\WarehouseInventoryManagement.dll
