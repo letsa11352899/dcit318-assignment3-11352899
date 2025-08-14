@@ -1,0 +1,15 @@
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\bin\Debug\net9.0\InventoryRecords.exe
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\bin\Debug\net9.0\InventoryRecords.deps.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\bin\Debug\net9.0\InventoryRecords.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\bin\Debug\net9.0\InventoryRecords.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\bin\Debug\net9.0\InventoryRecords.pdb
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\obj\Debug\net9.0\InventoryRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\obj\Debug\net9.0\InventoryRecords.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\obj\Debug\net9.0\InventoryRecords.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\obj\Debug\net9.0\InventoryRecords.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\obj\Debug\net9.0\InventoryRecords.sourcelink.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\obj\Debug\net9.0\InventoryRecords.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\obj\Debug\net9.0\refint\InventoryRecords.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\obj\Debug\net9.0\InventoryRecords.pdb
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\obj\Debug\net9.0\InventoryRecords.genruntimeconfig.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment3-11352899\InventoryRecords\obj\Debug\net9.0\ref\InventoryRecords.dll
